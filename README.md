@@ -1,0 +1,2 @@
+# OpenStreetMap_Dataprocessing
+整理 OpenStreetMap 数据：数据清理工作，使用python将osm文件里面的感兴趣的数据进行获取、清理和合并，转化为csv文件，导入sqlite数据库，最后用sql语句完成项目报告。
